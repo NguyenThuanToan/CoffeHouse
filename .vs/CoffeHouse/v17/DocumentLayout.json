@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CoffeHouseMVC\\CoffeHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|d:\\coffehousemvc\\coffehouse\\coffehouse\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|d:\\coffehousemvc\\coffehouse\\coffehouse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\views\\home\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\home\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\views\\payment\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\payment\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\views\\payment\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\payment\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|D:\\CoffeHouseMVC\\CoffeHouse\\coffehouse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347BCDF7-CB77-4211-9AD7-20F313991C15}|CoffeHouse\\CoffeHouse.csproj|solutionrelative:coffehouse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Menu.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Home\\Menu.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Menu.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Home\\Menu.cshtml",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAAAFMBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T03:46:36.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T01:15:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T01:48:06.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAUwMwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T02:33:51.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Service.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Home\\Service.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Service.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Home\\Service.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwDwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T02:11:40.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Payment\\Cart.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Payment\\Cart.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Payment\\Cart.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Payment\\Cart.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwKoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:42:39.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcBAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:19:42.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Payment\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Payment\\Checkout.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Payment\\Checkout.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Payment\\Checkout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:36:30.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CoffeHouse\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CoffeHouse\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:04:12.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\LogIn\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\LogIn\\Index.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\LogIn\\Index.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\LogIn\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:07:57.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T00:54:20.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "CoffeHouse\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "CoffeHouse\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T00:35:11.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "CoffeHouse\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "CoffeHouse\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAUwIQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T02:31:51.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoffeHouse\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CoffeHouseMVC\\CoffeHouse\\CoffeHouse\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoffeHouse\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:33:41.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
